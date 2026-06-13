@@ -1,6 +1,6 @@
-    <div align="right">
-     🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
-   </div>
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
 
 # ⚙️ Automatización de Pruebas API (Python + Pytest): Urban Grocers
 
