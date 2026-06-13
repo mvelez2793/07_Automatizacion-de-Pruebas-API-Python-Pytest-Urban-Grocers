@@ -1,3 +1,7 @@
+    <div align="right">
+     🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+   </div>
+
 # ⚙️ Automatización de Pruebas API (Python + Pytest): Urban Grocers
 
 ![Project](https://img.shields.io/badge/Project-API_Test_Automation-blue) ![Language](https://img.shields.io/badge/Language-Python-yellow) ![Framework](https://img.shields.io/badge/Framework-Pytest-green) ![Library](https://img.shields.io/badge/Library-Requests-lightgray)
